@@ -1,0 +1,33 @@
+.cart{
+    height: 500px;
+}
+
+.image{
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.body{
+    text-align: left;
+    font-family:'lato';
+    position: relative;
+}
+
+.name{
+    margin-top: -10px;
+}
+
+
+
+.addToCartBtn{
+    position: absolute;
+    bottom: 0;
+    border: none;
+    width:100%;
+    margin-left:-16px;
+    background-color: #FFE0B3;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    
+
+}
