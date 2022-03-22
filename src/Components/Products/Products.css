@@ -1,6 +1,6 @@
 .all-products{
     display: grid;
-    gap: 10px;
+    gap: 82px;
     grid-template-columns: 4fr 1fr;
 }
 
