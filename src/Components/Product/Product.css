@@ -1,5 +1,5 @@
 .cart{
-    height: 550px;
+    height: 580px;
 }
 
 .image{
@@ -17,8 +17,10 @@
     margin-top: -10px;
 }
 
-
-
+/* .ratings{
+    padding: 10px;
+}
+ */
 .addToCartBtn{
     position: absolute;
     bottom: 0;
@@ -30,4 +32,8 @@
     padding-bottom: 12px;
     
 
+}
+
+.addToCartBtn:hover{
+    background-color: orange;
 }
